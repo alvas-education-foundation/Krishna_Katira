@@ -10,4 +10,4 @@ for num in range(lower,upper + 1):
        sum += digit ** 3  
        temp //= 10  
        if num == sum:  
-            print(num)  
+            print(num)
